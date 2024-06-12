@@ -1,0 +1,19 @@
+.always {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+
+.coffee {
+  color: black;
+  text-align: center;
+}
+
+.button {
+  color: black;
+  text-align: center;
+  border: 1px solid black;
+  width: 200px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
