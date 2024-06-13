@@ -1,0 +1,38 @@
+.kakaolo {
+  background-color: gold;
+  font-family: "Courier New", Courier, monospace;
+  color: aliceblue;
+  border-radius: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  width: 400px;
+}
+
+.applelo {
+  background-color: #ffffff;
+  font-family: "Courier New", Courier, monospace;
+  color: black;
+  border-radius: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  width: 400px;
+}
+
+.naverlo {
+  background-color: #03c75a;
+  font-family: "Courier New", Courier, monospace;
+  color: aliceblue;
+  border-radius: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  width: 400px;
+}
