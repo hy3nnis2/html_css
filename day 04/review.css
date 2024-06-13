@@ -1,0 +1,51 @@
+.container {
+  /* margin: 0; auto;0 */
+  width: 500px;
+  height: 1000px;
+  display: flex;
+}
+
+.box {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.box > div {
+  flex: 1;
+}
+
+.a1 {
+  background-color: antiquewhite;
+}
+.a2 {
+  background-color: aqua;
+}
+.a3 {
+  background-color: antiquewhite;
+}
+.a4 {
+  background-color: aquamarine;
+}
+.a5 {
+  background-color: antiquewhite;
+}
+.a6 {
+  background-color: brown;
+}
+.a7 {
+  background-color: antiquewhite;
+}
+.a8 {
+  background-color: yellow;
+}
+
+.aa {
+  border: 1px solid red;
+  /* top right bottom left */
+  /* padding: 10px 20px 10px 20px; */
+  /* top/bbttom left/right */
+  /* padding:10px 20px */
+  /* all */
+  padding: 10px;
+}
