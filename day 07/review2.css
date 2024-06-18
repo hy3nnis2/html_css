@@ -1,0 +1,32 @@
+.card {
+  margin-top: 30px;
+  margin-left: 30px;
+  width: 300px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  background-color: azure;
+  border-radius: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.imageBox {
+  width: 100%;
+  height: 60%;
+}
+
+.imageBox > img {
+  width: 100%;
+  height: 100%;
+}
+
+.name {
+  padding-top: 20px;
+  padding-left: 20px;
+  font-weight: bold;
+}
+
+.currier {
+  padding: 20px;
+}
