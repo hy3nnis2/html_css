@@ -1,0 +1,16 @@
+.imageBox {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(fujiphilm-ojZ4wJNUM5w-unsplash.jpg);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ment {
+  text-align: center;
+  margin: 0 auto;
+  font-size: 60px;
+  gap: 15px;
+}

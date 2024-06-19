@@ -1,0 +1,19 @@
+.second {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  text-align: center;
+}
+
+.identyty {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.special {
+  margin-top: 100px;
+}

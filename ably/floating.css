@@ -1,0 +1,14 @@
+.button {
+  position: fixed;
+  color: white;
+  width: 160px;
+  height: 56px;
+  background-color: violet;
+  border-radius: 8px;
+  text-align: center;
+  padding: 20px 16px;
+}
+
+.button:hover {
+  background-color: violet;
+}
